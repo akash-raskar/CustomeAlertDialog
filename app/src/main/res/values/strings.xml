@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Custom Alert Dialog</string>
+    <string name="click">click</string>
+    <string name="pulsar">Pulsar</string>
+    <string name="expended_list_view">expended_list_view</string>
+    <string name="alert">alert</string>
+</resources>
